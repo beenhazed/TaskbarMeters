@@ -1,0 +1,26 @@
+﻿<Window x:Class="TaskbarCore.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="232" Width="315"  SizeToContent="Height" WindowState="Minimized">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Name="updateFrequencyTextBlock" />
+        <Slider Margin="0,5,0,0" Grid.Row="1" VerticalAlignment="Center" Name="slider" ValueChanged="WhenUpdateFrequencySliderChanged" IsSnapToTickEnabled="True" Minimum=".25" Maximum="5" TickFrequency=".25" LargeChange=".5" SmallChange=".25" TickPlacement="Both" />
+        
+        <TextBlock Grid.Row="2" Name="yellowTextBlock" Margin="0,5,0,0" />
+        <Slider Margin="0,5,0,0" Grid.Row="3" VerticalAlignment="Center" Name="yellowSlider" IsSnapToTickEnabled="True" Minimum="0" Maximum="100" TickFrequency="5" LargeChange="10" SmallChange="5" TickPlacement="Both" ValueChanged="WhenYellowValueChanged" />
+
+        <TextBlock Grid.Row="4" Name="redTextBlock" Margin="0,5,0,0" />
+        <Slider Margin="0,5,0,0" Grid.Row="5" VerticalAlignment="Center" Name="redSlider" IsSnapToTickEnabled="True" Minimum="0" Maximum="100" TickFrequency="5" LargeChange="10" SmallChange="5" TickPlacement="Both" ValueChanged="WhenRedValueChanged" />
+        
+        <TextBlock Grid.Row="6" HorizontalAlignment="Center" Margin="0,5,0,0"><Hyperlink NavigateUri="http://taskbarmeters.codeplex.com/" RequestNavigate="WhenNavigateRequested"><Run Name="linkText" /></Hyperlink></TextBlock>
+    </Grid>
+</Window>

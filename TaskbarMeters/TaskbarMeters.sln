@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stuff", "Stuff", "{8A057D94-4D9C-43DD-BCCF-86A4EF46EA20}"
+	ProjectSection(SolutionItems) = preProject
+		Stuff\Microsoft.WindowsAPICodePack.dll = Stuff\Microsoft.WindowsAPICodePack.dll
+		Stuff\Microsoft.WindowsAPICodePack.Shell.dll = Stuff\Microsoft.WindowsAPICodePack.Shell.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarCpuMeter", "TaskbarCpuMeter\TaskbarCpuMeter.csproj", "{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarCore", "TaskbarCore\TaskbarCore.csproj", "{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarMemoryMeter", "TaskbarMemoryMeter\TaskbarMemoryMeter.csproj", "{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarDiskIOMeter", "TaskbarDiskIOMeter\TaskbarDiskIOMeter.csproj", "{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarBatteryMeter", "TaskbarBatteryMeter\TaskbarBatteryMeter.csproj", "{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C884862-CA04-4F59-8EBA-F74A16016EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C884862-CA04-4F59-8EBA-F74A16016EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C884862-CA04-4F59-8EBA-F74A16016EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C884862-CA04-4F59-8EBA-F74A16016EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5A01E6-E0AA-4672-98C0-A84380EB5953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5A01E6-E0AA-4672-98C0-A84380EB5953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5A01E6-E0AA-4672-98C0-A84380EB5953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5A01E6-E0AA-4672-98C0-A84380EB5953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs07
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TaskbarCore\\TaskbarCore.csproj
+		SccProjectName1 = TaskbarCore
+		SccLocalPath1 = TaskbarCore
+		SccProjectUniqueName2 = TaskbarCpuMeter\\TaskbarCpuMeter.csproj
+		SccProjectName2 = TaskbarCpuMeter
+		SccLocalPath2 = TaskbarCpuMeter
+		SccProjectUniqueName3 = TaskbarMemoryMeter\\TaskbarMemoryMeter.csproj
+		SccProjectName3 = TaskbarMemoryMeter
+		SccLocalPath3 = TaskbarMemoryMeter
+		SccProjectUniqueName4 = TaskbarDiskIOMeter\\TaskbarDiskIOMeter.csproj
+		SccProjectName4 = TaskbarDiskIOMeter
+		SccLocalPath4 = TaskbarDiskIOMeter
+		SccProjectUniqueName5 = TaskbarBatteryMeter\\TaskbarBatteryMeter.csproj
+		SccProjectName5 = TaskbarBatteryMeter
+		SccLocalPath5 = TaskbarBatteryMeter
+	EndGlobalSection
+EndGlobal
