@@ -1,14 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stuff", "Stuff", "{8A057D94-4D9C-43DD-BCCF-86A4EF46EA20}"
-	ProjectSection(SolutionItems) = preProject
-		Stuff\Microsoft.WindowsAPICodePack.dll = Stuff\Microsoft.WindowsAPICodePack.dll
-		Stuff\Microsoft.WindowsAPICodePack.Shell.dll = Stuff\Microsoft.WindowsAPICodePack.Shell.dll
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarCpuMeter", "TaskbarCpuMeter\TaskbarCpuMeter.csproj", "{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarCore", "TaskbarCore\TaskbarCore.csproj", "{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
@@ -18,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarDiskIOMeter", "TaskbarDiskIOMeter\TaskbarDiskIOMeter.csproj", "{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarBatteryMeter", "TaskbarBatteryMeter\TaskbarBatteryMeter.csproj", "{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TaskbarMeters_Setup", "TaskbarMeters_Setup\TaskbarMeters_Setup.vdproj", "{539221F8-062B-4EDA-920C-7F4CA27F4A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +63,11 @@ Global
 		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Release|x64.ActiveCfg = Release|Any CPU
 		{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}.Release|x64.Build.0 = Release|Any CPU
+		{539221F8-062B-4EDA-920C-7F4CA27F4A7A}.Debug|Any CPU.ActiveCfg = Debug
+		{539221F8-062B-4EDA-920C-7F4CA27F4A7A}.Debug|x64.ActiveCfg = Debug
+		{539221F8-062B-4EDA-920C-7F4CA27F4A7A}.Release|Any CPU.ActiveCfg = Release
+		{539221F8-062B-4EDA-920C-7F4CA27F4A7A}.Release|Any CPU.Build.0 = Release
+		{539221F8-062B-4EDA-920C-7F4CA27F4A7A}.Release|x64.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
