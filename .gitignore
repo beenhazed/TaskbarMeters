@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TaskbarMeters/.vs/TaskbarMeters/v15/Server/sqlite3
+/TaskbarMeters/TaskbarBatteryMeter/obj
+/TaskbarMeters/.vs/TaskbarMeters/v15
+/TaskbarMeters/TaskbarCore/obj
+/TaskbarMeters/TaskbarCpuMeter/obj
+/TaskbarMeters/TaskbarDiskIOMeter/obj
+/TaskbarMeters/TaskbarMemoryMeter/obj

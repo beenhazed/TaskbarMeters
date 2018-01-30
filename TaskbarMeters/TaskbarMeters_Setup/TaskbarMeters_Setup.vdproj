@@ -16,188 +16,128 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
+        "MsmKey" = "8:_09F4455A03EA4AFE8505CC03A8BD351E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_0EB34D103AB54F729DE62F6021260994"
+        "MsmKey" = "8:_377CE38A75B4428482CBC47D56F98E0A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2227E239696D453F909477FD6A873748"
+        "MsmKey" = "8:_383FE4211031475CB0B731BFE43D79C1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
-        "OwnerKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
-        "OwnerKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
-        "OwnerKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
-        "OwnerKey" = "8:_2227E239696D453F909477FD6A873748"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
-        "OwnerKey" = "8:_0EB34D103AB54F729DE62F6021260994"
+        "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
+        "OwnerKey" = "8:_F3CA9063815C499ABFB4E9F259A4F8C5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
-        "OwnerKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
+        "OwnerKey" = "8:_377CE38A75B4428482CBC47D56F98E0A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
-        "OwnerKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
+        "OwnerKey" = "8:_383FE4211031475CB0B731BFE43D79C1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
-        "OwnerKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
+        "OwnerKey" = "8:_09F4455A03EA4AFE8505CC03A8BD351E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
-        "OwnerKey" = "8:_2227E239696D453F909477FD6A873748"
+        "OwnerKey" = "8:_BD6F11731921414D93810A3658065372"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6C489A60F192A20348E2232D6136F433"
-        "OwnerKey" = "8:_0EB34D103AB54F729DE62F6021260994"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B7C556F3323A1D0937350955863F619"
-        "OwnerKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B7C556F3323A1D0937350955863F619"
-        "OwnerKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B7C556F3323A1D0937350955863F619"
-        "OwnerKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B7C556F3323A1D0937350955863F619"
-        "OwnerKey" = "8:_0EB34D103AB54F729DE62F6021260994"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
+        "MsmKey" = "8:_BD6F11731921414D93810A3658065372"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
+        "OwnerKey" = "8:_F3CA9063815C499ABFB4E9F259A4F8C5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_9B7C556F3323A1D0937350955863F619"
+        "OwnerKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
+        "OwnerKey" = "8:_377CE38A75B4428482CBC47D56F98E0A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
+        "OwnerKey" = "8:_383FE4211031475CB0B731BFE43D79C1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_2227E239696D453F909477FD6A873748"
+        "OwnerKey" = "8:_09F4455A03EA4AFE8505CC03A8BD351E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_D6CAA9636CFF2025091981E70B134025"
-        "OwnerKey" = "8:_0EB34D103AB54F729DE62F6021260994"
+        "OwnerKey" = "8:_BD6F11731921414D93810A3658065372"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
+        "MsmKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
+        "OwnerKey" = "8:_F3CA9063815C499ABFB4E9F259A4F8C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
+        "OwnerKey" = "8:_377CE38A75B4428482CBC47D56F98E0A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
+        "OwnerKey" = "8:_383FE4211031475CB0B731BFE43D79C1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
+        "OwnerKey" = "8:_09F4455A03EA4AFE8505CC03A8BD351E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F3CA9063815C499ABFB4E9F259A4F8C5"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_09D2711392AE43F4912FDD57BFFDF2A2"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9B7C556F3323A1D0937350955863F619"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FE749FBBCBFD4B66913F3C83CD93A163"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C78E5241721B4C25AD3BBF9F55417902"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2227E239696D453F909477FD6A873748"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0EB34D103AB54F729DE62F6021260994"
+        "OwnerKey" = "8:_6C489A60F192A20348E2232D6136F433"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -209,13 +149,37 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_64F8611EB7E6F15C2AC7D75ACEE3637E"
+        "OwnerKey" = "8:_DD209E4FC1C1E7B78F58F65DA61463C1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6C489A60F192A20348E2232D6136F433"
+        "OwnerKey" = "8:_F3CA9063815C499ABFB4E9F259A4F8C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_377CE38A75B4428482CBC47D56F98E0A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_383FE4211031475CB0B731BFE43D79C1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_09F4455A03EA4AFE8505CC03A8BD351E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_BD6F11731921414D93810A3658065372"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -313,20 +277,15 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_64F8611EB7E6F15C2AC7D75ACEE3637E"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6C489A60F192A20348E2232D6136F433"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack.Sensors, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_64F8611EB7E6F15C2AC7D75ACEE3637E"
-                    {
-                    "Name" = "8:Microsoft.WindowsAPICodePack.Sensors.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
-            "SourcePath" = "8:Microsoft.WindowsAPICodePack.Sensors.dll"
+            "SourcePath" = "8:Microsoft.WindowsAPICodePack.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -340,24 +299,19 @@
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:1"
-            "Exclude" = "11:TRUE"
+            "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6C489A60F192A20348E2232D6136F433"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D6CAA9636CFF2025091981E70B134025"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6C489A60F192A20348E2232D6136F433"
-                    {
-                    "Name" = "8:Microsoft.WindowsAPICodePack.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
-            "SourcePath" = "8:Microsoft.WindowsAPICodePack.dll"
+            "SourcePath" = "8:Microsoft.WindowsAPICodePack.Shell.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -368,14 +322,14 @@
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
             "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:TRUE"
+            "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:1"
-            "Exclude" = "11:TRUE"
+            "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9B7C556F3323A1D0937350955863F619"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DD209E4FC1C1E7B78F58F65DA61463C1"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
@@ -394,41 +348,10 @@
             "Hidden" = "11:FALSE"
             "System" = "11:FALSE"
             "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:TRUE"
+            "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
             "Register" = "3:1"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D6CAA9636CFF2025091981E70B134025"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_D6CAA9636CFF2025091981E70B134025"
-                    {
-                    "Name" = "8:Microsoft.WindowsAPICodePack.Shell.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.WindowsAPICodePack.Shell.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:TRUE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:TRUE"
+            "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
@@ -488,15 +411,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Taskbar Meters"
-        "ProductCode" = "8:{D539BD2C-7E5A-4703-AA9B-BFA98A590A50}"
-        "PackageCode" = "8:{32AAAB26-713B-4A78-A635-866F8C29C482}"
+        "ProductCode" = "8:{65876386-1B70-4011-8FE0-1D6EC6E63570}"
+        "PackageCode" = "8:{D87920BE-25FC-465D-A705-49F09B2711CE}"
         "UpgradeCode" = "8:{621DCB12-80E9-43DE-961E-888E82038E7C}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.2.0"
+        "ProductVersion" = "8:1.2.3"
         "Manufacturer" = "8:Taskbar Meters"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -1008,9 +931,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_09D2711392AE43F4912FDD57BFFDF2A2"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_09F4455A03EA4AFE8505CC03A8BD351E"
             {
-            "SourcePath" = "8:..\\TaskbarCpuMeter\\obj\\Debug\\TaskbarCpuMeter.exe"
+            "SourcePath" = "8:..\\TaskbarMemoryMeter\\obj\\Release\\TaskbarMemoryMeter.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -1030,15 +953,15 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
+            "OutputProjectGuid" = "8:{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0EB34D103AB54F729DE62F6021260994"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_132EDBA36E3749C99CB58FA988C50E96"
             {
-            "SourcePath" = "8:..\\TaskbarBatteryMeter\\obj\\Debug\\TaskbarBatteryMeter.exe"
+            "SourcePath" = "8:"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -1057,16 +980,16 @@
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
+            "OutputGroupCanonicalName" = "8:XmlSerializer"
             "OutputProjectGuid" = "8:{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2227E239696D453F909477FD6A873748"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_18066402B9CC46FF91BC1201615FD0AF"
             {
-            "SourcePath" = "8:..\\TaskbarCore\\obj\\Debug\\TaskbarCore.dll"
+            "SourcePath" = "8:"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -1085,14 +1008,70 @@
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
+            "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
+            "OutputProjectGuid" = "8:{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6F390BB8D387427081BD8623C9183599"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2F1596C4DE8B48528B348F6682743F99"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
+            "OutputProjectGuid" = "8:{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3243C4B319384A468A1FD6B46A3A305D"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Debug|Any CPU"
+            "OutputGroupCanonicalName" = "8:Symbols"
+            "OutputProjectGuid" = "8:{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3348B07561FF4C358580C52021C2409F"
             {
             "SourcePath" = "8:"
             "TargetName" = "8:"
@@ -1120,9 +1099,9 @@
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C78E5241721B4C25AD3BBF9F55417902"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_377CE38A75B4428482CBC47D56F98E0A"
             {
-            "SourcePath" = "8:..\\TaskbarMemoryMeter\\obj\\Debug\\TaskbarMemoryMeter.exe"
+            "SourcePath" = "8:..\\TaskbarCpuMeter\\obj\\Release\\TaskbarCpuMeter.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -1142,15 +1121,15 @@
             "ProjectOutputGroupRegister" = "3:1"
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
+            "OutputProjectGuid" = "8:{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
                 }
             }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_FE749FBBCBFD4B66913F3C83CD93A163"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_383FE4211031475CB0B731BFE43D79C1"
             {
-            "SourcePath" = "8:..\\TaskbarDiskIOMeter\\obj\\Debug\\TaskbarDiskIOMeter.exe"
+            "SourcePath" = "8:..\\TaskbarDiskIOMeter\\obj\\Release\\TaskbarDiskIOMeter.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
@@ -1171,6 +1150,342 @@
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_43682227366E44A296B13C94CA0E5464"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:XmlSerializer"
+            "OutputProjectGuid" = "8:{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_462272888D66455FB62D11B628E72E38"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Debug|Any CPU"
+            "OutputGroupCanonicalName" = "8:Symbols"
+            "OutputProjectGuid" = "8:{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4D741AC9184640878F35BF5D2CBDF881"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Debug|Any CPU"
+            "OutputGroupCanonicalName" = "8:Symbols"
+            "OutputProjectGuid" = "8:{F15619E1-F5E5-441D-A32B-C3CF8AA62E4A}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_6D5772E69A8346FDB00A27A45DB450B5"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
+            "OutputProjectGuid" = "8:{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9BD14A8C567B4CB9B7299ECE0DE98382"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Debug|Any CPU"
+            "OutputGroupCanonicalName" = "8:Symbols"
+            "OutputProjectGuid" = "8:{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9F71AE318D594012A898C1BE9BCFF897"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:LocalizedResourceDlls"
+            "OutputProjectGuid" = "8:{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_BD6F11731921414D93810A3658065372"
+            {
+            "SourcePath" = "8:..\\TaskbarCore\\obj\\Release\\TaskbarCore.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C33CD544C45143F4B69422720376416E"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:XmlSerializer"
+            "OutputProjectGuid" = "8:{9F5A01E6-E0AA-4672-98C0-A84380EB5953}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_C3433768A2A9421D8A3CCB66621799F9"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:Debug|Any CPU"
+            "OutputGroupCanonicalName" = "8:Symbols"
+            "OutputProjectGuid" = "8:{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F3CA9063815C499ABFB4E9F259A4F8C5"
+            {
+            "SourcePath" = "8:..\\TaskbarBatteryMeter\\obj\\Release\\TaskbarBatteryMeter.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{4AD47577-19CC-4D9F-8453-87A8C4C9D2E5}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_FC0921ED9F9C4D1C84E87F8E02B66FF1"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:XmlSerializer"
+            "OutputProjectGuid" = "8:{5C884862-CA04-4F59-8EBA-F74A16016EFD}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_FC7EEF9460D9460B84E3A4B6E21C80C6"
+            {
+            "SourcePath" = "8:"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B71B6A96B705458FA1DFAE9BF6F135C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:XmlSerializer"
+            "OutputProjectGuid" = "8:{3718FEAD-B5E5-48E8-81DC-CB5D258A936C}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
